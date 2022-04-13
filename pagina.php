@@ -16,7 +16,7 @@
 
     </header>
 
-    <div>
+    <div style="width: 100vw; heigth: 100vh; display: flex; flex-direction: row;justify-content: center; align-items: center;">
         <?php include "formu.php" ?>
     </div>
 
