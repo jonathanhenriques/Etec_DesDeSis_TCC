@@ -55,8 +55,12 @@ document.getElementById("exampleFormControlTextarea1").innerHTML=texto;
             <option>E</option>
           </select>
         </div>
-        
+        <button type="submit">Anterior</button>------------------------------
+        <button type="submit">Próximo</button>
       </form></div>
+      
+      
+      
       <div class="col"></div>
     </div>
   </div>
